@@ -1,0 +1,466 @@
+{
+  "frutas": [
+    {
+      "nombre": "Caqui",
+      "emoji": "🍅",
+      "id": 52,
+      "nutricion": {
+        "calorias": 81,
+        "grasas": 0,
+        "azucar": 18,
+        "proteinas": 0
+      }
+    },
+    {
+      "nombre": "Fresa",
+      "emoji": "🍓",
+      "id": 3,
+      "nutricion": {
+        "calorias": 29,
+        "grasas": 0.4,
+        "azucar": 5.4,
+        "proteinas": 0.8
+      }
+    },
+    {
+      "nombre": "Plátano",
+      "emoji": "🍌",
+      "id": 1,
+      "nutricion": {
+        "calorias": 96,
+        "grasas": 0.2,
+        "azucar": 17.2,
+        "proteinas": 1
+      }
+    },
+    {
+      "nombre": "Tomate",
+      "emoji": "🍅",
+      "id": 5,
+      "nutricion": {
+        "calorias": 74,
+        "grasas": 0.2,
+        "azucar": 2.6,
+        "proteinas": 0.9
+      }
+    },
+    {
+      "nombre": "Pera",
+      "emoji": "🍐",
+      "id": 4,
+      "nutricion": {
+        "calorias": 57,
+        "grasas": 0.1,
+        "azucar": 10,
+        "proteinas": 0.4
+      }
+    },
+    {
+      "nombre": "Durián",
+      "emoji": "🍈",
+      "id": 60,
+      "nutricion": {
+        "calorias": 147,
+        "grasas": 5.3,
+        "azucar": 6.75,
+        "proteinas": 1.5
+      }
+    },
+    {
+      "nombre": "Mora",
+      "emoji": "🫐",
+      "id": 64,
+      "nutricion": {
+        "calorias": 40,
+        "grasas": 0.4,
+        "azucar": 4.5,
+        "proteinas": 1.3
+      }
+    },
+    {
+      "nombre": "Arándano rojo",
+      "emoji": "🍒",
+      "id": 65,
+      "nutricion": {
+        "calorias": 50,
+        "grasas": 0.34,
+        "azucar": 5.74,
+        "proteinas": 0.75
+      }
+    },
+    {
+      "nombre": "Kiwi",
+      "emoji": "🥝",
+      "id": 66,
+      "nutricion": {
+        "calorias": 61,
+        "grasas": 0.5,
+        "azucar": 9,
+        "proteinas": 1.1
+      }
+    },
+    {
+      "nombre": "Piña",
+      "emoji": "🍍",
+      "id": 10,
+      "nutricion": {
+        "calorias": 50,
+        "grasas": 0.12,
+        "azucar": 9.85,
+        "proteinas": 0.54
+      }
+    },
+    {
+      "nombre": "Higo",
+      "emoji": "🟣",
+      "id": 68,
+      "nutricion": {
+        "calorias": 74,
+        "grasas": 0.3,
+        "azucar": 16,
+        "proteinas": 0.8
+      }
+    },
+    {
+      "nombre": "Ciruela",
+      "emoji": "🟣",
+      "id": 71,
+      "nutricion": {
+        "calorias": 46,
+        "grasas": 0.28,
+        "azucar": 9.92,
+        "proteinas": 0.7
+      }
+    },
+    {
+      "nombre": "Naranja",
+      "emoji": "🍊",
+      "id": 2,
+      "nutricion": {
+        "calorias": 43,
+        "grasas": 0.2,
+        "azucar": 8.2,
+        "proteinas": 1
+      }
+    },
+    {
+      "nombre": "Manzana Verde",
+      "emoji": "🍏",
+      "id": 72,
+      "nutricion": {
+        "calorias": 21,
+        "grasas": 0.1,
+        "azucar": 6.4,
+        "proteinas": 0.4
+      }
+    },
+    {
+      "nombre": "Frambuesa",
+      "emoji": "🔴",
+      "id": 23,
+      "nutricion": {
+        "calorias": 53,
+        "grasas": 0.7,
+        "azucar": 4.4,
+        "proteinas": 1.2
+      }
+    },
+    {
+      "nombre": "Sandía",
+      "emoji": "🍉",
+      "id": 25,
+      "nutricion": {
+        "calorias": 30,
+        "grasas": 0.2,
+        "azucar": 6,
+        "proteinas": 0.6
+      }
+    },
+    {
+      "nombre": "Limón",
+      "emoji": "🍋",
+      "id": 26,
+      "nutricion": {
+        "calorias": 29,
+        "grasas": 0.3,
+        "azucar": 2.5,
+        "proteinas": 1.1
+      }
+    },
+    {
+      "nombre": "Mango",
+      "emoji": "🥭",
+      "id": 27,
+      "nutricion": {
+        "calorias": 60,
+        "grasas": 0.38,
+        "azucar": 13.7,
+        "proteinas": 0.82
+      }
+    },
+    {
+      "nombre": "Arándano",
+      "emoji": "🫐",
+      "id": 33,
+      "nutricion": {
+        "calorias": 29,
+        "grasas": 0.4,
+        "azucar": 5.4,
+        "proteinas": 0
+      }
+    },
+    {
+      "nombre": "Manzana",
+      "emoji": "🍎",
+      "id": 6,
+      "nutricion": {
+        "calorias": 52,
+        "grasas": 0.4,
+        "azucar": 10.3,
+        "proteinas": 0.3
+      }
+    },
+    {
+      "nombre": "Guayaba",
+      "emoji": "🍈",
+      "id": 37,
+      "nutricion": {
+        "calorias": 68,
+        "grasas": 1,
+        "azucar": 9,
+        "proteinas": 2.6
+      }
+    },
+    {
+      "nombre": "Albaricoque",
+      "emoji": "🍑",
+      "id": 35,
+      "nutricion": {
+        "calorias": 15,
+        "grasas": 0.1,
+        "azucar": 3.2,
+        "proteinas": 0.5
+      }
+    },
+    {
+      "nombre": "Melón",
+      "emoji": "🍈",
+      "id": 41,
+      "nutricion": {
+        "calorias": 34,
+        "grasas": 0,
+        "azucar": 8,
+        "proteinas": 0
+      }
+    },
+    {
+      "nombre": "Mandarina",
+      "emoji": "🍊",
+      "id": 77,
+      "nutricion": {
+        "calorias": 45,
+        "grasas": 0.4,
+        "azucar": 9.1,
+        "proteinas": 0
+      }
+    },
+    {
+      "nombre": "Pitahaya",
+      "emoji": "🌵",
+      "id": 78,
+      "nutricion": {
+        "calorias": 36,
+        "grasas": 0.4,
+        "azucar": 3,
+        "proteinas": 1
+      }
+    },
+    {
+      "nombre": "Lima",
+      "emoji": "🍋‍🟩",
+      "id": 44,
+      "nutricion": {
+        "calorias": 25,
+        "grasas": 0.1,
+        "azucar": 1.7,
+        "proteinas": 0.3
+      }
+    },
+    {
+      "nombre": "Granada",
+      "emoji": "🍎",
+      "id": 79,
+      "nutricion": {
+        "calorias": 83,
+        "grasas": 1.2,
+        "azucar": 13.7,
+        "proteinas": 1.7
+      }
+    },
+    {
+      "nombre": "Fruta del dragón",
+      "emoji": "🐉",
+      "id": 80,
+      "nutricion": {
+        "calorias": 60,
+        "grasas": 1.5,
+        "azucar": 8,
+        "proteinas": 9
+      }
+    },
+    {
+      "nombre": "Uva",
+      "emoji": "🍇",
+      "id": 81,
+      "nutricion": {
+        "calorias": 69,
+        "grasas": 0.16,
+        "azucar": 16,
+        "proteinas": 0.72
+      }
+    },
+    {
+      "nombre": "Mora de árbol",
+      "emoji": "🫐",
+      "id": 82,
+      "nutricion": {
+        "calorias": 43,
+        "grasas": 0.39,
+        "azucar": 8.1,
+        "proteinas": 1.44
+      }
+    },
+    {
+      "nombre": "Aguacate",
+      "emoji": "🥑",
+      "id": 84,
+      "nutricion": {
+        "calorias": 160,
+        "grasas": 14.66,
+        "azucar": 0.66,
+        "proteinas": 2
+      }
+    },
+    {
+      "nombre": "Kiwi (Fruta)",
+      "emoji": "🥝",
+      "id": 85,
+      "nutricion": {
+        "calorias": 61,
+        "grasas": 0.5,
+        "azucar": 8.9,
+        "proteinas": 1.14
+      }
+    },
+    {
+      "nombre": "Arándano rojo (Cranberry)",
+      "emoji": "🔴",
+      "id": 87,
+      "nutricion": {
+        "calorias": 46,
+        "grasas": 0.1,
+        "azucar": 4,
+        "proteinas": 0.4
+      }
+    },
+    {
+      "nombre": "Cereza",
+      "emoji": "🍒",
+      "id": 9,
+      "nutricion": {
+        "calorias": 50,
+        "grasas": 0.3,
+        "azucar": 8,
+        "proteinas": 1
+      }
+    },
+    {
+      "nombre": "Melocotón",
+      "emoji": "🍑",
+      "id": 86,
+      "nutricion": {
+        "calorias": 39,
+        "grasas": 0.25,
+        "azucar": 8.4,
+        "proteinas": 0.9
+      }
+    },
+    {
+      "nombre": "Yaca",
+      "emoji": "🍈",
+      "id": 94,
+      "nutricion": {
+        "calorias": 95,
+        "grasas": 0,
+        "azucar": 19.1,
+        "proteinas": 1.72
+      }
+    },
+    {
+      "nombre": "Kiwano",
+      "emoji": "🍈",
+      "id": 95,
+      "nutricion": {
+        "calorias": 44,
+        "grasas": 1.26,
+        "azucar": 0.5,
+        "proteinas": 1.78
+      }
+    },
+    {
+      "nombre": "Avellana",
+      "emoji": "🌰",
+      "id": 96,
+      "nutricion": {
+        "calorias": 628,
+        "grasas": 61,
+        "azucar": 4.3,
+        "proteinas": 15
+      }
+    },
+    {
+      "nombre": "Pomelo",
+      "emoji": "🍊",
+      "id": 98,
+      "nutricion": {
+        "calorias": 37,
+        "grasas": 0,
+        "azucar": 8.5,
+        "proteinas": 0.82
+      }
+    },
+    {
+      "nombre": "Calabaza",
+      "emoji": "🎃",
+      "id": 100,
+      "nutricion": {
+        "calorias": 25,
+        "grasas": 0.3,
+        "azucar": 3.3,
+        "proteinas": 1.1
+      }
+    },
+    {
+      "nombre": "Kaki japonés",
+      "emoji": "🍅",
+      "id": 101,
+      "nutricion": {
+        "calorias": 70,
+        "grasas": 0.2,
+        "azucar": 13,
+        "proteinas": 0.6
+      }
+    },
+    {
+      "nombre": "Papaya",
+      "emoji": "🥭",
+      "id": 42,
+      "nutricion": {
+        "calorias": 39,
+        "grasas": 0.3,
+        "azucar": 4.4,
+        "proteinas": 0.5
+      }
+    },
+  ]
+}
